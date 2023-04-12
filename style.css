@@ -1,11 +1,11 @@
-.cabecalho{
-background-color: #000;
-color: white;
-display: flex;
-justify-content: space-around;
-align-items: center;
-padding: 24px 0;
-}
+.cabecalho {
+    background-color: #000;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}  
 
 .cabecalho-imagem{
     width: 20%;
@@ -13,32 +13,53 @@ padding: 24px 0;
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 16px;                            
     padding: 24px 0;
     font-size: 24px;
 }
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.escola-imagem{
+.loja-imagem{
     width: 25%;
 }
 
-.escola{
-    background-image: linear-gradient(#000,#76777c);
+.loja{
+    background-image: linear-gradient(#000,gray);
     color: white;
     display:flex;
     justify-content: center;
     align-items: center;  padding: 24px 0;  
 }
 
-.escola-conteudo{
+.loja-conteudo{
     width: 35%;
 }
 
-.escola-titulo {  
+.loja-titulo {  
     padding: 24px 0;
 }
+
+.loja-jaqueta {
+    width: 10%;
+}
+
+.loja-camisa {
+    width: 10%;
+}
+
+.loja-blazer {
+    width: 10%;
+}
+
+.loja-icone {
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.loja-tudo {
+
+   
