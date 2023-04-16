@@ -85,3 +85,7 @@
     text-align: center;
     padding: 16px 0;
 }
+
+.loja-titulo {
+    justify-content: space-around;
+}
